@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogadorMinerales", "CatalogadorMinerales.csproj", "{813C9147-0156-4E25-AA58-EEC8B8C97733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813C9147-0156-4E25-AA58-EEC8B8C97733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813C9147-0156-4E25-AA58-EEC8B8C97733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813C9147-0156-4E25-AA58-EEC8B8C97733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813C9147-0156-4E25-AA58-EEC8B8C97733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE427BF5-769F-4AC7-91DF-0D9D6C79A9F0}
+	EndGlobalSection
+EndGlobal
